@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MST Visualization — CS Project 4
 
 Interactive visualization and benchmarking tool for **Kruskal's** and **Prim's** Minimum Spanning Tree algorithms.
