@@ -48,7 +48,7 @@ npm run preview
 3. Click **Run algorithm(s)** to compute the MST and see runtime results.
 4. Use the **transport bar** to animate Kruskal or Prim step by step.
 5. Scroll to **Runtime vs input size** — select sizes, trials, density, then click **Run benchmark** to generate the experimental growth chart for your report.
-=======
+
 # DAA Project: Kruskal's and Prim's Algorithm
 
 An interactive web application for visualizing and comparing **Kruskal's Algorithm** and **Prim's Algorithm** for finding the **Minimum Spanning Tree (MST)** of a connected weighted graph.
