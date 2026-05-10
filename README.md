@@ -117,3 +117,40 @@ src/
     ├── benchmark.js
     ├── kruskalTrace.js
     └── primTrace.js
+
+```
+## Screenshots
+
+### Main Interface (Dark Mode)
+
+![Main Interface](./screenshots/Section-1_Dark_Mode.png)
+
+### Main Interface (Light Mode)
+
+![Main Interface](./screenshots/Section-1_Light_Mode.png)
+
+### Kruskal's Algorithm
+
+![Kruskals](./screenshots/Kruskals.png)
+
+### Prim's Algorithm
+
+![Prims](./screenshots/Prims.png)
+
+### Result Comparison
+
+![Result Comparison](./screenshots/Result_Comparison.png)
+
+### Line Chart
+
+![Line Chart](./screenshots/Line_Chart.png)
+
+### Bar Chart
+
+![Bar Chart](./screenshots/Bar_Chart.png)
+
+### Runtime and Input Size
+
+![Runtime and Input Size](./screenshots/Runtime_and_Input_Size.png)
+
+```
